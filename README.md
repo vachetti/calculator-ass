@@ -1,4 +1,4 @@
-markdown# SEN 104 & 214 Scientific Calculator App
+lmarkdown# SEN 104 & 214 Scientific Calculator App
 
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?logo=android&style=for-the-badge)](https://github.com/DiverseXL/sci-calculator-sen/releases/download/v1.0.0/calculator-sen-v1.0.0.apk)
 
@@ -82,7 +82,7 @@ calculator-sen/
 
 ├── App.tsx                            # App entry point
 
-├── pubspec.yaml                       # Dependencies
+├── package.json                       # Dependencies
 
 └── README.md                          # This file
 
